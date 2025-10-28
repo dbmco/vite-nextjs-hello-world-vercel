@@ -1,6 +1,6 @@
 {
-  "name": "mike-hacker-cv",
-  "description": "SWE CV for Mike Hacker",
+  "name": "yaymo.de",
+  "description": "hello-world.yaymo.de",
   "version": "1.0.0",
   "private": true,
   "type": "module",
@@ -10,7 +10,7 @@
     "url": "https://github.com/mhackersu"
   },
   "bugs": {
-    "url": "https://github.com/mhackersu/cv-app/issues",
+    "url": "https://github.com/dbmco/yaymo.de/issues",
     "email": "hacker@bfsio.com"
   },
   "scripts": {

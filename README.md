@@ -1,6 +1,6 @@
-# CV App
+# yaymo.de hello world
 
-This is a CV app that doubles as a Boilerplate with Vite, React 18, TypeScript, Vitest, Testing Library, TailwindCSS 3, Eslint and Prettier.
+Front-end boilerplace with Vite, React 18, TypeScript, Vitest, Testing Library, TailwindCSS 3, Eslint and Prettier.
 
 ## Built With
 
